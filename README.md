@@ -1,0 +1,3 @@
+# Building a Decentralized Student Database with Ethereum Smart Contracts
+
+This smart contract demonstrates the benefits of decentralization in the educational domain. By storing student information on the Ethereum blockchain, we ensure that the data is tamper-proof, transparent, and accessible only to authorized individuals. Additionally, the need for intermediaries to manage student records is eliminated, reducing administrative overhead and enhancing security.
